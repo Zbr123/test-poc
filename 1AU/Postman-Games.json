@@ -1,0 +1,115 @@
+{
+	"info": {
+		"_postman_id": "0369a330-e5da-4617-8336-25b456382693",
+		"name": "Games",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Postman",
+			"item": [
+				{
+					"name": "Get details of the game.",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status code is 200\", function () {",
+									"  pm.response.to.have.status(200);",
+									"});",
+									"",
+									"pm.test(\"Status code name has string\", () => {",
+									"  pm.response.to.have.status(\"OK\");",
+									"});",
+									"",
+									"pm.test(\"Verify the data integrity with checking the results have\",() => {",
+									"  pm.expect(pm.response.text()).to.include(\"id\");",
+									"  pm.expect(pm.response.text()).to.include(\"slug\");",
+									"  pm.expect(pm.response.text()).to.include(\"name\");",
+									"  pm.expect(pm.response.text()).to.include(\"released\");",
+									"  pm.expect(pm.response.text()).to.include(\"tba\");",
+									"});"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json"
+							}
+						],
+						"url": {
+							"raw": "https://api.rawg.io/api/games/:id?key=3459280c793d4d98a43a473699f88354",
+							"protocol": "https",
+							"host": [
+								"api",
+								"rawg",
+								"io"
+							],
+							"path": [
+								"api",
+								"games",
+								":id"
+							],
+							"query": [
+								{
+									"key": "key",
+									"value": "3459280c793d4d98a43a473699f88354"
+								}
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "31",
+									"description": "(Required) An ID or a slug identifying this Game."
+								}
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "Untitled Example",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "{{baseUrl}}/games/:id",
+									"host": [
+										"{{baseUrl}}"
+									],
+									"path": [
+										"games",
+										":id"
+									],
+									"variable": [
+										{
+											"key": "id",
+											"value": "nulla dolor",
+											"description": "(Required) An ID or a slug identifying this Game."
+										}
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Content-Type",
+									"value": "application/json"
+								}
+							],
+							"cookie": [],
+							"body": "{\n  \"rating\": -88567287.89022288,\n  \"id\": -18017109,\n  \"slug\": \"Iq\",\n  \"name\": \"ex\",\n  \"name_original\": \"dolore\",\n  \"description\": \"dolor velit nulla anim\",\n  \"metacritic\": 35595300,\n  \"metacritic_platforms\": [\n    {\n      \"metascore\": -39929102,\n      \"url\": \"laborum do veniam\"\n    },\n    {\n      \"metascore\": 46580716,\n      \"url\": \"est cillum ut\"\n    }\n  ],\n  \"released\": \"1950-07-16\",\n  \"tba\": true,\n  \"updated\": \"2019-09-26T20:30:53.848Z\",\n  \"background_image\": \"https://lGJTUtwoROaqcgRI.zxLY,o4ltzv\",\n  \"background_image_additional\": \"culpa dolor et\",\n  \"website\": \"http://cneMDdRsoI.rzpIZMGBNXY+doLTY99FmXY60uyfrLMu1q1wArg\",\n  \"rating_top\": -46182603,\n  \"ratings\": {},\n  \"reactions\": {},\n  \"added\": -78721089,\n  \"added_by_status\": {},\n  \"playtime\": 38025780,\n  \"screenshots_count\": -7045663,\n  \"movies_count\": 70111212,\n  \"creators_count\": 8038565,\n  \"achievements_count\": 17695050,\n  \"parent_achievements_count\": \"ullamco nos\",\n  \"reddit_url\": \"elit aliqua nostrud ut nulla\",\n  \"reddit_name\": \"consequat quis\",\n  \"reddit_description\": \"deserunt\",\n  \"reddit_logo\": \"https://xrkgNXR.zyf6WypqKqj9.gX4AFYKiEZu4o\",\n  \"reddit_count\": -66206267,\n  \"twitch_count\": \"quis nulla non id\",\n  \"youtube_count\": \"ut officia nisi cu\",\n  \"reviews_text_count\": \"occaecat officia ea\",\n  \"ratings_count\": 14663420,\n  \"suggestions_count\": 57956884,\n  \"alternative_names\": [\n    \"proident mollit minim consectetur\",\n    \"dolor ipsum pariatur\"\n  ],\n  \"metacritic_url\": \"nulla\",\n  \"parents_count\": -83500261,\n  \"additions_count\": -51884054,\n  \"game_series_count\": -73548630,\n  \"esrb_rating\": {\n    \"id\": -73333416,\n    \"slug\": \"mature\",\n    \"name\": \"Everyone 10+\"\n  },\n  \"platforms\": [\n    {\n      \"platform\": {\n        \"id\": -1555536,\n        \"slug\": \"in velit\",\n        \"name\": \"velit ad quis\"\n      },\n      \"released_at\": \"irure commodo\",\n      \"requirements\": {\n        \"minimum\": \"mollit tempor\",\n        \"recommended\": \"irure\"\n      }\n    },\n    {\n      \"platform\": {\n        \"id\": -27287076,\n        \"slug\": \"voluptate ips\",\n        \"name\": \"adipisicing Duis dolor mollit\"\n      },\n      \"released_at\": \"anim esse est elit\",\n      \"requirements\": {\n        \"minimum\": \"eiusmod mollit\",\n        \"recommended\": \"officia nisi tempor do enim\"\n      }\n    }\n  ]\n}"
+						}
+					]
+				}
+			]
+		}
+	]
+}
