@@ -1,0 +1,114 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {}
+        ],
+        "line": 4,
+        "name": "To verify that the user is able to add products to chart",
+        "description": "",
+        "id": "add-to-chart;to-verify-that-the-user-is-able-to-add-products-to-chart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [],
+        "tags": [
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "Add to Chart",
+    "description": "",
+    "id": "add-to-chart",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Features/BlazeDemo/web/AddtoCart.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {}
+        ],
+        "line": 4,
+        "name": "To verify that the user is able to complete checkout process",
+        "description": "",
+        "id": "checkout;to-verify-that-the-user-is-able-to-complete-checkout-process",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [],
+        "tags": [
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "CheckOut",
+    "description": "",
+    "id": "checkout",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Features/BlazeDemo/web/CheckOut.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {}
+        ],
+        "line": 5,
+        "name": "To verify that the user is able to login by entering valid user name and Password",
+        "description": "",
+        "id": "login;to-verify-that-the-user-is-able-to-login-by-entering-valid-user-name-and-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [],
+        "tags": [
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "LogIn",
+    "description": "",
+    "id": "login",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Features/BlazeDemo/web/LogIn.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {}
+        ],
+        "line": 5,
+        "name": "To verify that the user is able to SignUp successfully by entering Unique user name and Password",
+        "description": "",
+        "id": "signup;to-verify-that-the-user-is-able-to-signup-successfully-by-entering-unique-user-name-and-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [],
+        "tags": [
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "SignUp",
+    "description": "",
+    "id": "signup",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Features/BlazeDemo/web/SignUp.feature",
+    "tags": []
+  }
+]

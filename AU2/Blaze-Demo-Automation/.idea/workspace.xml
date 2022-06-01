@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e3cd36d-037c-4ab3-bb49-c14ce7b60b1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Task-2/toptalMapbox/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task-2/toptalMapbox/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task-2/toptalMapbox/TestNG.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task-2/toptalMapbox/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task-2/toptalMapbox/src/test/java/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task-2/toptalMapbox/src/test/java/BasicApiTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task-2/toptalMapbox/src/test/java/util/RestAssuredUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task-2/toptalMapbox/src/test/java/util/TestUtil.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="1oKaCqZmV9fYQIw5ArbQFKMUqNw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ChromeDriver" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ChromeDriver" />
+      <recent name="C:\Users\user\Desktop\Blaze Demo\Blaze demo\src\test\resources\Features\voxpro\web" />
+      <recent name="C:\Users\user\Desktop\Blaze Demo\Blaze demo\ChromeDriver" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/resources/Features/bykea/web/markhor" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pages.web" />
+      <recent name="step_defination.web" />
+      <recent name="step_defination.web.markhor" />
+      <recent name="pages.web.markhor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: LogIn">
+    <configuration name="Feature: LogIn" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/BlazeDemo/web/LogIn.feature" />
+      <option name="GLUE" value="step_defination.web" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="BlazeDemoAutomationFramework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: LogIn" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: To verify that the user is able to add products to chart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/BlazeDemo/web/AddtoCart.feature" />
+      <option name="GLUE" value="step_defination.web" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="BlazeDemoAutomationFramework" />
+      <option name="NAME_FILTER" value="^To verify that the user is able to add products to chart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^To verify that the user is able to add products to chart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: To verify that the user is able to add products to chart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CreditbookAutomationFramework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CreditbookAutomationFramework" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: To verify that the user is ... (1)" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/src/test/resources/Features/BlazeDemo/web/SignUp.feature" />
+      <option name="myNameFilter" value="^To verify that the user is able to SignUp successfully by entering Unique user name and Password$" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scenario: To verify that the user is ..." type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/src/test/resources/Features/BlazeDemo/web/LogIn.feature" />
+      <option name="myNameFilter" value="^To verify that the user is able to login by entering valid user name and Password$" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SignUp.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/src/test/resources/Features/BlazeDemo/web/SignUp.feature" />
+      <option name="myNameFilter" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: LogIn" />
+        <item itemvalue="Cucumber.js.Scenario: To verify that the user is ... (1)" />
+        <item itemvalue="Cucumber.js.SignUp.feature" />
+        <item itemvalue="Cucumber Java.Scenario: To verify that the user is able to add products to chart" />
+        <item itemvalue="Cucumber.js.Scenario: To verify that the user is ..." />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e3cd36d-037c-4ab3-bb49-c14ce7b60b1e" name="Default Changelist" comment="" />
+      <created>1613037611665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613037611665</updated>
+      <workItem from="1613037615053" duration="7964000" />
+      <workItem from="1613551736969" duration="241000" />
+      <workItem from="1613982423181" duration="385000" />
+      <workItem from="1613982953253" duration="888000" />
+      <workItem from="1613988856548" duration="859000" />
+      <workItem from="1614061068213" duration="974000" />
+      <workItem from="1614237055169" duration="3072000" />
+      <workItem from="1614242585738" duration="1230000" />
+      <workItem from="1614247664909" duration="6376000" />
+      <workItem from="1614319327039" duration="1261000" />
+      <workItem from="1614337716105" duration="177000" />
+      <workItem from="1614337929795" duration="2134000" />
+      <workItem from="1617040866277" duration="1526000" />
+      <workItem from="1617044212733" duration="530000" />
+      <workItem from="1617650441285" duration="572000" />
+      <workItem from="1617651103327" duration="1596000" />
+      <workItem from="1618134689123" duration="45000" />
+      <workItem from="1618351027420" duration="1372000" />
+      <workItem from="1618354086973" duration="1030000" />
+      <workItem from="1618920245396" duration="856000" />
+      <workItem from="1619591728497" duration="1118000" />
+      <workItem from="1619594468262" duration="588000" />
+      <workItem from="1619646258723" duration="102000" />
+      <workItem from="1621704016931" duration="330000" />
+      <workItem from="1621705430750" duration="2633000" />
+      <workItem from="1621862171587" duration="514000" />
+      <workItem from="1622050845050" duration="272000" />
+      <workItem from="1622057097354" duration="524000" />
+      <workItem from="1622103706815" duration="168000" />
+      <workItem from="1622143951459" duration="31000" />
+      <workItem from="1624272194565" duration="480000" />
+      <workItem from="1624297222072" duration="778000" />
+      <workItem from="1636009262701" duration="3416000" />
+      <workItem from="1636094791538" duration="1800000" />
+      <workItem from="1636443511421" duration="292000" />
+      <workItem from="1636490106814" duration="16000" />
+      <workItem from="1636629835500" duration="63000" />
+      <workItem from="1636629964667" duration="389000" />
+      <workItem from="1636959930712" duration="1797000" />
+      <workItem from="1637042511508" duration="3882000" />
+      <workItem from="1637567305002" duration="404000" />
+      <workItem from="1637760370930" duration="286000" />
+      <workItem from="1638791386469" duration="16553000" />
+      <workItem from="1638983369999" duration="4932000" />
+      <workItem from="1639676988053" duration="541000" />
+      <workItem from="1639680907418" duration="258000" />
+      <workItem from="1639995310249" duration="7967000" />
+      <workItem from="1640246245637" duration="433000" />
+      <workItem from="1640677672582" duration="10034000" />
+      <workItem from="1640709771312" duration="8480000" />
+      <workItem from="1641231806052" duration="4253000" />
+      <workItem from="1641569986429" duration="1199000" />
+      <workItem from="1641920645641" duration="378000" />
+      <workItem from="1642170885757" duration="918000" />
+      <workItem from="1642710356166" duration="304000" />
+      <workItem from="1642794251085" duration="1167000" />
+      <workItem from="1643134613527" duration="594000" />
+      <workItem from="1644331780216" duration="3814000" />
+      <workItem from="1644516762198" duration="1435000" />
+      <workItem from="1644519829006" duration="4293000" />
+      <workItem from="1647290240433" duration="16338000" />
+      <workItem from="1647363400827" duration="3282000" />
+      <workItem from="1654026911603" duration="5653000" />
+      <workItem from="1654033398769" duration="689000" />
+      <workItem from="1654034130804" duration="1188000" />
+      <workItem from="1654083057315" duration="282000" />
+      <workItem from="1654084446705" duration="5294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Blaze_demo$Scenario__To_verify_that_the_user_is_able_to_complete_checkout_process.ic" NAME="Scenario: To verify that the user is able to complete checkout process Coverage Results" MODIFIED="1647298583747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Blaze_demo$Feature__SignUp.ic" NAME="Feature: SignUp Coverage Results" MODIFIED="1647293095181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Blaze_demo$Feature__AddtoCart.ic" NAME="Feature: AddtoCart Coverage Results" MODIFIED="1647295808297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Blaze_demo$Scenario__To_verify_that_the_user_is_able_to_login_by_entering_valid_user_name_and_Password.ic" NAME="Scenario: To verify that the user is able to login by entering valid user name and Password Coverage Results" MODIFIED="1647354281477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Blaze_demo$Scenario__To_verify_that_the_user_is_able_to_add_products_to_chart.ic" NAME="Scenario: To verify that the user is able to add products to chart Coverage Results" MODIFIED="1647366428802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Blaze_demo$Scenario__To_verify_that_the_user_is_able_to_login_by_entering_valid_user_name_and_Password__2_.ic" NAME="Scenario: To verify that the user is able to login by entering valid user name and Password (2) Coverage Results" MODIFIED="1647366389838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Blaze_demo$Scenario__To_verify_that_the_user_is_able_to_login_by_entering_valid_user_name_and_Password__1_.ic" NAME="Scenario: To verify that the user is able to login by entering valid user name and Password (1) Coverage Results" MODIFIED="1647362552306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Blaze_demo$Scenario__To_verify_that_the_user_is_able_to_SignUp_successfully_by_entering_Unique_user_name_and_Password.ic" NAME="Scenario: To verify that the user is able to SignUp successfully by entering Unique user name and Password Coverage Results" MODIFIED="1647346475496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Blaze_demo$Scenario__To_verify_that_the_user_is_able_to_SignUp_successfully_by_entering_Unique_user_name_and_Password__1_.ic" NAME="Scenario: To verify that the user is able to SignUp successfully by entering Unique user name and Password (1) Coverage Results" MODIFIED="1647366363880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Blaze_demo$Scenario__To_verify_that_the_user_is_able_to_complete_checkout_process__1_.ic" NAME="Scenario: To verify that the user is able to complete checkout process (1) Coverage Results" MODIFIED="1647366410835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+  </component>
+</project>
